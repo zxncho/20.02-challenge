@@ -3,7 +3,11 @@ function About() {
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-        <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+        <img
+          src="src\assets\profile-pic.jpg"  
+          alt="Tyler Stubbs Picture"  
+          style={{ width: "140px", height: "120px", borderRadius: "50%" }}
+/>
         </div>
         <p>
         My career up to this point has included many stops and many different skill sets. I started in sales in 2018 directly out of college.

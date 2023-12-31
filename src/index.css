@@ -4,14 +4,14 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
-  --secondary: #31343D;
-  --tertiary: #b12704;
+  --primary: black;
+  --secondary: gold;
+  --tertiary: maroon;
   --light: #fafafa;
-  --dark: #799FBA;
-  --darker: #1F3B60;
+  --dark: black;
+  --darker: maroon;
   --alpha: rgba(255,255,255,.7);
-  --error: rgb(228, 46, 1);
+  --error: black (228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);
