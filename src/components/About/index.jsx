@@ -14,13 +14,13 @@ function About() {
         </p>
         <p>
         This change in lifestyle opened my eyes to how creative I could get when it comes to making the life I want to live. Then fast forward a couple
-                years and Covid-19 hits. During the time that this became a global crisis, me and my wife were expecting our first baby. I've never been so 
-                frightened in my life. In this time, I was also supporting the implementations for my company's NetSuite offering. While on a project, I ran into
+                years and Covid-19 hits. During the time that this became a global crisis, me and my wife were expecting our first baby. I have never been so 
+                frightened in my life. In this time, I was also supporting the implementations for our NetSuit product. While on a project, I ran into
                 an issue that had to do with mapping a checkbox through our API. I knew nothing about it but I just asked the questions and played with the 
                 technology. I learned how to read script logs, error logs, field mappings and more. I learned until I finally figured out the configuration needed
                 to map to checkboxes from our software. 
         </p>
-        <p>
+        {/* <p>
         This experience made me curious about how these API's are built. I took on a solutions consultant role with hopes that I would be able to get into 
                 the technology more. My expectations were not correct and for a year I spent my wheels trying to make myself fit into a sales team. My personality 
                 is as such that I can work at anything and be good at it but the small talk and niceties that a sales culture requires is difficult for me.
@@ -29,7 +29,7 @@ function About() {
                 I came to the conclusion that I didnt feel comfortable in my current profession because it was missing the thrill of diving into technology like I 
                 had in my previous role. Fast forward through a few months of intentionally thinking about my life's path and doing research I landed on going to coding
                 bootcamp and now I am here.
-        </p>
+        </p> */}
       </div>
     </section>
   );
