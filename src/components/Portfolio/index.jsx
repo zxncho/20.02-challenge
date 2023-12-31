@@ -6,26 +6,26 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'Logo Generator',
+      name: 'Logos',
       description: 'Object Oriented Programming',
       link: "https://zxncho.github.io/10.02-challenge/",
       repo: "https://github.com/zxncho/10.02-challenge"
     },
     {
-      name: 'Ecommerce Backend',
+      name: 'Ecomm',
       description: 'Object Relational Mapping',
       link: "https://drive.google.com/file/d/1QmKgpAa5NaUe5OrXD9g3Au-HAhUtHXVS/view",
       repo: "https://github.com/zxncho/13.02-challenge"
     },
     {
       name: 'Figgler',
-      description: 'Prgoressive Web Apps',
+      description: 'Progressive Web Apps',
       link: "https://figgler.onrender.com",
       repo: "https://dashboard.render.com/web/srv-cm8dujen7f5s73ecncc0"
     },
     {
-      name: 'WorkDay Scheduler',
-      description: 'Third PArty APIs',
+      name: 'WorkDay',
+      description: 'Third Party APIs',
       link: "https://zxncho.github.io/05.02-challenge/",
       repo: "https://github.com/zxncho/05.02-challenge"
     },
