@@ -6,34 +6,34 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surfReport',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Logo Generator',
+      description: 'Object Oriented Programming',
+      link: "https://zxncho.github.io/10.02-challenge/",
+      repo: "https://github.com/zxncho/10.02-challenge"
     },
     {
-      name: 'pastelPuzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Ecommerce Backend',
+      description: 'Object Relational Mapping',
+      link: "https://drive.google.com/file/d/1QmKgpAa5NaUe5OrXD9g3Au-HAhUtHXVS/view",
+      repo: "https://github.com/zxncho/13.02-challenge"
     },
     {
-      name: 'runBuddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Figgler',
+      description: 'Prgoressive Web Apps',
+      link: "https://figgler.onrender.com",
+      repo: "https://dashboard.render.com/web/srv-cm8dujen7f5s73ecncc0"
     },
     {
-      name: 'ledWall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'WorkDay Scheduler',
+      description: 'Third PArty APIs',
+      link: "https://zxncho.github.io/05.02-challenge/",
+      repo: "https://github.com/zxncho/05.02-challenge"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Quiz',
+      description: 'Web APIs',
+      link: "https://zxncho.github.io/04.02-challenge/",
+      repo: "https://github.com/zxncho/04.02-challenge"
     },
   ]);
 
@@ -49,6 +49,6 @@ function Portfolio() {
       </div>
     </div>
   );
-};
+}
 
 export default Portfolio;

@@ -62,7 +62,7 @@ function Contact() {
           />
         </div>
         <div>
-          <label htmlFor="message">What's going on ?</label>
+          <label htmlFor="message">How can I help ?</label>
           <textarea
             name="message"
             rows="5"
